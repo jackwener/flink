@@ -14,6 +14,9 @@ ignore$
 \.py$
 Test\.java$
 \.html$
+Conf\.java$
+Context\.java$
+Case\.scala
 
 \.avi$
 \.ico$
