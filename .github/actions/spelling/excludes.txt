@@ -12,11 +12,8 @@ ignore$
 \.xml$
 \.g$
 \.py$
-^(.*)Test\.java$
-^(.*)\.html$
-^(.*)Conf\.java$
-^(.*)Context\.java$
-^(.*)Case\.scala$
+\.html$
+
 
 \.avi$
 \.ico$
