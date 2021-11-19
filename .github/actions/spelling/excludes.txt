@@ -4,6 +4,14 @@
 (?:^|/)package(?:-lock|)\.json$
 (?:^|/)vendor/
 ignore$
+\.test$
+\.js$
+\.ans$
+\.sh$
+\.svg$
+\.xml$
+\.g$
+
 \.avi$
 \.ico$
 \.jpe?g$
