@@ -11,6 +11,9 @@ ignore$
 \.svg$
 \.xml$
 \.g$
+\.py$
+Test\.java$
+\.html$
 
 \.avi$
 \.ico$
