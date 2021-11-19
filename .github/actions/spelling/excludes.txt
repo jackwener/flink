@@ -13,8 +13,7 @@ ignore$
 \.g$
 \.py$
 \.html$
-
-
+\.json$
 \.avi$
 \.ico$
 \.jpe?g$
