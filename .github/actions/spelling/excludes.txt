@@ -16,7 +16,7 @@ Test\.java$
 \.html$
 Conf\.java$
 Context\.java$
-Case\.scala
+Case\.scala$
 
 \.avi$
 \.ico$
