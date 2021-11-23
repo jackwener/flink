@@ -4,6 +4,7 @@
 (?:^|/)package(?:-lock|)\.json$
 (?:^|/)vendor/
 ignore$
+Test\.java$
 \.test$
 \.js$
 \.ans$
